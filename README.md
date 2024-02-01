@@ -1,10 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on: Vortex Unifor 🇧🇷
-👯 I’m looking to collaborate on: React and React Native projects
-🤝 I’m looking for help with: Improving my skills as a software developer in web and mobile
-🌱 I’m currently learning: Flutter
-💬 Ask me about: React and JavaScript
-⚡ Fun fact: I make really bad jokes 😅
+# 👽 Emanuel Vidal 
+I'm currently engaged with Vortex Unifor 🇧🇷, keen on collaborating on React and React Native projects, seeking assistance in enhancing my web and mobile software development skills, diving into learning Flutter, always ready to discuss React and JavaScript, and just so you know, I make really bad jokes 😅
 
 
 ## 🌐 Socials:
@@ -22,6 +17,3 @@
 # Currently Learning:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%2302569B.svg?style=flat&logo=Angular&logoColor=white)
-
-### ✍️
-![](https://api.api-ninjas.com/v1/quotes?category=friendship)
