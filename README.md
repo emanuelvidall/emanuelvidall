@@ -3,7 +3,7 @@ I'm currently engaged with Vortex Unifor 🇧🇷, keen on collaborating on Reac
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/emanuel.vidal.92) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emanuelvidall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuel-vidal-4b435170) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/emanuelvidall) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emanuelvidall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuel-vidal-4b435170) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/emanuelvidall) 
 
 # 💻 Main Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
