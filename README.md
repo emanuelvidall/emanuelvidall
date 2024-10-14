@@ -1,6 +1,5 @@
 # 👽 Emanuel Vidal 
-I'm currently engaged with Vortex Unifor 🇧🇷, keen on collaborating on React and React Native projects, seeking assistance in enhancing my web and mobile software development skills, diving into learning Flutter, always ready to discuss React and JavaScript, and just so you know, I make really bad jokes 😅
-
+Keen on collaborating on React and React Native projects, seeking assistance in enhancing my web and mobile software development skills, diving into learning Flutter, always ready to discuss React and JavaScript, and just so you know, I make really bad jokes 😅
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emanuelvidall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuel-vidal-4b435170) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/emanuelvidall) 
